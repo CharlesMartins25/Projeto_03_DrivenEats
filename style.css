@@ -74,6 +74,7 @@ header h2{
         display: block;
         margin-left: 14px;
         margin-right: 14px;
+        object-fit: cover;
 
 }
 
